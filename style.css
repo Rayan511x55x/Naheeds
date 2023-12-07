@@ -1,0 +1,41 @@
+
+html {
+  hebackground-color:gray;
+}
+
+html {
+  background-color:gray;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    background-color: black;    
+}
+ul , li , a {
+    display: inline-block;
+    padding: 5px;
+    margin-left: 10px;
+    font-color:white;
+    text-decoration: none;
+    color: white;
+}
+
+.xo {
+    display: bottom;
+    font-size:10px;
+    font-weight: 10px;
+    padding: 10px 10px
+}
+
+audio , h1 {
+  margin: 50px;
+  margin-left: 100px;
+}
+
+p {
+  font-size: 30px;
+  color:white;
+  margin:10px 10px 10px;
+  font-weight: 10px;
+}
